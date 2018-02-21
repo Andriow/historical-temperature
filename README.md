@@ -18,7 +18,7 @@ DB_NAME = 'DBNAME'
 E se necessário, pode-se utilizar a função create_table() para criar a tabela, se ela não existir.
 
 # Como testar
-Para teste da extraço de dados, foi crida a funço test, que recebe como parâmetros o código do aerporto e a data e imprime na tela o dataframe do pandas com as informaçes lidas do HTML.
+Para teste da extraço de dados, foi crida a função test(), que recebe como parâmetros o código do aerporto e a data e imprime na tela o dataframe do pandas com as informaçes lidas do HTML.
 
 Por exemplo:
 ```Python
